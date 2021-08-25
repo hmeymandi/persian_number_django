@@ -41,5 +41,7 @@ class Test (models.Model):
 
 Template.html
 
+you use Tag 
+
 {{persian_number}}
 
